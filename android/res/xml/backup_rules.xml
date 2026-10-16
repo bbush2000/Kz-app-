@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="carol_ble.xml"/>
+    <include domain="sharedpref" path="carol_mic.xml"/>
+    <include domain="file" path="kz_user_state.json"/>
+    <exclude domain="sharedpref" path="carol_lost.xml"/>
+</full-backup-content>
